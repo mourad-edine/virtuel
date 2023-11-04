@@ -1,0 +1,14 @@
+body{
+    font-family: 'montserrat';
+}
+
+.test{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 12px;
+}
+
+.p{
+    padding: 50px;
+}
